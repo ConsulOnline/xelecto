@@ -1,0 +1,848 @@
+Uri: https://consent.cookiebot.com/a5d91095-b25d-461f-ab0a-65fd581ef145/cd.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\a5d91095-b25d-461f-ab0a-65fd581ef145\cd.js
+Content Type: application/javascript
+
+Uri: https://consent.cookiebot.com/uc.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\uc.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.xelecto.it/
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\index.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/bar
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\bar.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/bar.asp
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\bar.asp.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/caffe-golosita
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\caffe-golosita.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/caffe-golosita.asp
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\caffe-golosita.asp.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/Common/Source/WG1/Css/images/bxslider_controls.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG1\Css\images\bxslider_controls.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Common/Source/WG1/Css/images/fancybox_loading.gif
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG1\Css\images\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://www.xelecto.it/Common/Source/WG1/Css/jquery.bxslider.css
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG1\Css\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://www.xelecto.it/Common/Source/WG1/Js/FoundationAdd/modernizr.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG1\Js\FoundationAdd\modernizr.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/Common/Source/WG1/Js/jquery.bxslider.min.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG1\Js\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Css/foundation.min.css
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Css\foundation.min.css
+Content Type: text/css
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Css/normalize.css
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Css\normalize.css
+Content Type: text/css
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Css/superfish.css
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Css\superfish.css
+Content Type: text/css
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Css/wg_CssFramework.css
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Css\wg_CssFramework.css
+Content Type: text/css
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Js/foundation.min.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Js\foundation.min.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Js/jquery-ui.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Js/jquery.min.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Js/superfish.min.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Js\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Js/wg_Funzionalita.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Js\wg_Funzionalita.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/Common/Source/WG2/Js/wg_JsFrameWork.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Common\Source\WG2\Js\wg_JsFrameWork.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/contatti
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\contatti.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/contatti.asp
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\contatti.asp.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/cookiepolicy.asp
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\cookiepolicy.asp.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/formazione
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\formazione.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/hospitality
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\hospitality.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/hospitaly
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\hospitaly.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/informativasito.asp
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\informativasito.asp.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/formazione-_000046.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\formazione-_000046.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/il-sistema-xelecto-_000004.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\il-sistema-xelecto-_000004.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/macchina-armonia-_000053.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\macchina-armonia-_000053.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/merchandising_000072.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\merchandising_000072.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/ristorante-agriturismo-_000047.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\ristorante-agriturismo-_000047.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/s2-3-gruppi_000058.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\s2-3-gruppi_000058.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/s2-3gruppi_000058.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\s2-3gruppi_000058.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/s2-spazio-compatta_000056.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\s2-spazio-compatta_000056.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/s2-standard-2-gruppi_000057.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\s2-standard-2-gruppi_000057.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/s8-2-gruppi_000081.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\s8-2-gruppi_000081.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/s8-3-gruppi_000082.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\s8-3-gruppi_000082.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/video-ricette-caffe-greco_000069.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\video-ricette-caffe-greco_000069.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/video-ricette-espresso-shakerato_000070.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\video-ricette-espresso-shakerato_000070.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/video-ricette-orient-express_000062.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\video-ricette-orient-express_000062.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/video-ricette-wiener-espresso_000063.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\video-ricette-wiener-espresso_000063.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/it/video-ricette_000059.htm
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\it\video-ricette_000059.htm
+Content Type: text/html
+
+Uri: https://www.xelecto.it/media/image/2020/2020.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\2020.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/2020/arab-background.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\arab-background.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/bracci.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\bracci.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/2020/camicia1.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\camicia1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/grembiule.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\grembiule.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/lavagna.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\lavagna.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/merchandising.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\merchandising.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/orologio.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\orologio.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/polo1.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\polo1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/polo2.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\polo2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/2020/pulizia1.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\2020\pulizia1.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/2020/pulizia2.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\2020\pulizia2.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/2020/pulizia3.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\2020\pulizia3.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/2020/pulizia4.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\2020\pulizia4.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/2020/qualita-costante.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\qualita-costante.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/semilavorato.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\semilavorato.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/2020/tazza1.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\tazza1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/tazza2.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\tazza2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/tazza3.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\tazza3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/tazzona.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\tazzona.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/tovaglioli.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\tovaglioli.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/2020/zucchero.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\2020\zucchero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/2gruppi-dettaglio.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\2gruppi-dettaglio.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/a.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\a.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/armonia-dettaglio.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\armonia-dettaglio.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/b.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\b.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/bakery.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\bakery.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/Bandiere/Eng.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\Bandiere\Eng.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/Bandiere/Ita.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\Bandiere\Ita.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/banner-bar.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\banner-bar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/banner-hospitaly.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\banner-hospitaly.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/banner-pasticceria.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\banner-pasticceria.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/banner-ristorante.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\banner-ristorante.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/bar-molinari.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\bar-molinari.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/bar.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\bar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/bio.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\bio.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/braccio.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\braccio.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/c.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\c.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/CAFFEMOLINARI.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\CAFFEMOLINARI.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/chef.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\chef.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/d.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\d.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/dispenser.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\dispenser.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/espressodeca3.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\espressodeca3.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/espressodeca5.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\espressodeca5.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/favicon.ico
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\favicon.ico.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/media/image/formazione.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\formazione.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/formazione1.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\formazione1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/ginseng.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\ginseng.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/graffe.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\graffe.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/HOSPITALY.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\HOSPITALY.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/INFOGRAFICA1.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\INFOGRAFICA1.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/INFOGRAFICA2.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\INFOGRAFICA2.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/INFOGRAFICA3.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\INFOGRAFICA3.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/loading.gif
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\loading.gif
+Content Type: image/gif
+
+Uri: https://www.xelecto.it/media/image/Logo_Xelecto1.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\Logo_Xelecto1.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/macchina1.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\macchina1.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/macchina2.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\macchina2.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/macchina3.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\macchina3.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/menu.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\menu.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/merchandising/01.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/02.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/03.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/04.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/05.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/06.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/07.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\07.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/08.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\08.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/09.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\09.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/10.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/11.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/12.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/13.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/14.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/15.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/16.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/17.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/18.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/19.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/20.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/21.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/22.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/23.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/24.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\24.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/25.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/26.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\26.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/27.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/28.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\28.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/29.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\29.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/30.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\30.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/31.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\31.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/32.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/33.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\33.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/34.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\34.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/35.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\35.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/36.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\36.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/37.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\37.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/merchandising/38.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\merchandising\38.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/orzo.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\orzo.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/prova.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\prova.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/radice.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\radice.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/s2-3-gruppi-dettaglio.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\s2-3-gruppi-dettaglio.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/s2-dettaglio.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\s2-dettaglio.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/S21-spazio-compatta.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\S21-spazio-compatta.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/S21_NERA.webp
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\S21_NERA.webp
+Content Type: image/webp
+
+Uri: https://www.xelecto.it/Media/Image/s2_gruppi.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\s2_gruppi.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/s8standard.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\s8standard.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/spigola.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\spigola.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Image/tazza-xelecto-motivi.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\tazza-xelecto-motivi.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/tazza.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\tazza.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/tazzasx.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\tazzasx.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/image/tazza_xelecto.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\tazza_xelecto.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/image/videoricette.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\image\videoricette.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/VideoRicette/video-ricette-greco.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\VideoRicette\video-ricette-greco.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/VideoRicette/video-ricette-orient-express.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\VideoRicette\video-ricette-orient-express.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/VideoRicette/video-ricette-shakerato.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\VideoRicette\video-ricette-shakerato.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/Image/VideoRicette/video-ricette-viener.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Image\VideoRicette\video-ricette-viener.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/ImgArt/000001.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\ImgArt\000001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/ImgArt/000002.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\ImgArt\000002.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/ImgArt/000003.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\ImgArt\000003.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/ImgArt/000004.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\ImgArt\000004.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/ImgArt/000005.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\ImgArt\000005.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/ImgArt/000006.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\ImgArt\000006.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/Media/ImgArt/000007.jpg
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\ImgArt\000007.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xelecto.it/media/ImgArt/ImmaginiSecondarie/000001.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\ImgArt\ImmaginiSecondarie\000001.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/ImgArt/ImmaginiSecondarie/000002.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\ImgArt\ImmaginiSecondarie\000002.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/ImgArt/ImmaginiSecondarie/000004.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\ImgArt\ImmaginiSecondarie\000004.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/ImgArt/ImmaginiSecondarie/000005.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\ImgArt\ImmaginiSecondarie\000005.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/ImgArt/ImmaginiSecondarie/000006.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\ImgArt\ImmaginiSecondarie\000006.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/media/ImgArt/ImmaginiSecondarie/000007.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\media\ImgArt\ImmaginiSecondarie\000007.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Media/Video/XELECTO-intro.mp4
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Video\XELECTO-intro.mp4
+Content Type: video/mp4
+
+Uri: https://www.xelecto.it/Media/Video/XELECTO-TRATTORIA.mp4
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Video\XELECTO-TRATTORIA.mp4
+Content Type: video/mp4
+
+Uri: https://www.xelecto.it/Media/Video/Xelecto_merchandising.mp4
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Media\Video\Xelecto_merchandising.mp4
+Content Type: video/mp4
+
+Uri: https://www.xelecto.it/merchandising
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\merchandising.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/pasticceria
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\pasticceria.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/privacypolicy.asp
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\privacypolicy.asp.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/ristorante
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\ristorante.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/sistema-xelecto
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\sistema-xelecto.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/Templates/Css/animate.css
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\animate.css
+Content Type: text/css
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-bg_flat_0_aaaaaa_40x100.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-bg_flat_75_ffffff_40x100.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-bg_flat_75_ffffff_40x100.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-bg_glass_75_dadada_1x400.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-bg_glass_75_dadada_1x400.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-bg_glass_75_e6e6e6_1x400.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-icons_222222_256x240.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-icons_2e83ff_256x240.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-icons_454545_256x240.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-icons_888888_256x240.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/images/ui-icons_cd0a0a_256x240.png
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://www.xelecto.it/Templates/Css/Custom-theme/jquery-ui.css
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\Custom-theme\jquery-ui.css
+Content Type: text/css
+
+Uri: https://www.xelecto.it/Templates/Css/StiliDefault.css
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Css\StiliDefault.css
+Content Type: text/css
+
+Uri: https://www.xelecto.it/Templates/Js/Script.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\Js\Script.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/Templates/js/wow.min.js
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\Templates\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.xelecto.it/tradizione
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\tradizione.html
+Content Type: text/html
+
+Uri: https://www.xelecto.it/xml/rss.asp
+File Name: C:\OSPanel\domains\xelecto.it\www.xelecto.it\xml\rss.asp.html
+Content Type: text/html
+
